@@ -1,0 +1,22 @@
+For Check the version { docker --version}
+
+For pull the images { docker run "hello world"}
+
+For check the docker images{ docker images}
+
+For pull the docker images from docker hub { docker pull ubuntu{ images name  that you want to pull}}
+
+for creating the container or run the images{ docker run -it -d ununtu}
+
+for show all the container { docker ps -a }
+
+accessing and running the container { docker exec -it {container id } bash  }
+
+then{ you can run commad echo  hello  output is hello }
+
+For stop the running container { docker stop {id}}
+
+create a new images for local system { docker id repositioey name / image name}
+
+To delete the Container { docker rm }
+
